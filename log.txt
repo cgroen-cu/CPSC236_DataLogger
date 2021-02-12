@@ -1,2 +1,5 @@
-Startup: 2/11/2021 7:25:10 PM
-Button clicked: 2/11/2021 7:25:12 PM
+Startup: 2/11/2021 8:46:09 PM
+Spacebar: 2/11/2021 8:46:14 PM
+Spacebar: 2/11/2021 8:46:14 PM
+Button clicked: 2/11/2021 8:46:15 PM
+Shutdown: 2/11/2021 8:46:19 PM

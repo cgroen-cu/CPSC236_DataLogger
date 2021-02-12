@@ -65,7 +65,7 @@ public class GameManagerScript : MonoBehaviour
         forWrite = s1;
         WriteFile();
     }
-    void OnApplcationQuit()
+    void OnApplicationQuit()
     {
         String s1 = "Shutdown: ";
         s1 += getDate();
